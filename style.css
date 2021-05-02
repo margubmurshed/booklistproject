@@ -1,0 +1,20 @@
+.success,
+.error,
+.removed {
+    color: white;
+    padding: 10px 30px;
+    margin: 20px;
+    border-radius: 40px;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background-color: red;
+}
+
+.removed {
+    background-color: orange;
+}
